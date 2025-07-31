@@ -1,0 +1,12 @@
+.Chart {
+  min-width: 375px;
+  min-height: 280px;
+  width: 100%;
+  height: 100%;
+  max-width: 784px;
+  max-height: 300px;
+}
+
+.Chart__pngButton {
+  align-self: flex-start;
+}

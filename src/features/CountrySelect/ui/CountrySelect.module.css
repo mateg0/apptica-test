@@ -1,0 +1,15 @@
+.Select {
+  min-width: 100px;
+}
+
+.Select__option {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+}
+
+.Select__optionIcon {
+  display: block;
+  width: 28;
+  height: 20;
+}
